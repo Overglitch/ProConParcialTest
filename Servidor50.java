@@ -1,5 +1,3 @@
-package Chat;
-
 import java.util.Scanner;
 
 public class Servidor50 {
